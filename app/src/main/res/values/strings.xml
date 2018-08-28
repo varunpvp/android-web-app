@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidWebApp</string>
+    <string name="downloading">Downloading&#8230;</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="permission_required">Permission required</string>
+    <string name="storage_permission_rationale">App needs storage permission to download file</string>
+    <string name="logo">Logo</string>
+    <string name="oops">Oops!</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="error_message">You don\'t have internet access, go find some signals</string>
+    <string name="retry">Retry</string>
+</resources>
