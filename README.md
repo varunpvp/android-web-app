@@ -14,4 +14,4 @@ File downloads and run time permission handled for file download
 
 Web page restore when device configuration changes (eg. device rotated)
 
-Back button behaviour overrided go to previous page if there is one or default behaniour (return to home screen)
+Back button behaviour overrided go to previous page if there is one or default behaviour (return to home screen)
