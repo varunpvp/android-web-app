@@ -9,9 +9,9 @@ import android.graphics.Bitmap
 import android.net.Uri
 import android.os.Bundle
 import android.os.Environment.DIRECTORY_DOWNLOADS
-import android.support.v4.app.ActivityCompat.requestPermissions
-import android.support.v4.app.ActivityCompat.shouldShowRequestPermissionRationale
-import android.support.v4.content.ContextCompat.checkSelfPermission
+import androidx.core.app.ActivityCompat.requestPermissions
+import androidx.core.app.ActivityCompat.shouldShowRequestPermissionRationale
+import androidx.core.content.ContextCompat.checkSelfPermission
 import android.view.View
 import android.webkit.WebResourceError
 import android.webkit.WebResourceRequest
