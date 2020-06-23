@@ -1,6 +1,6 @@
 package com.autosoft.androidwebapp
 
-const val LOAD_URL = "http://services.vrcplindia.com"
+const val LOAD_URL = "http://vrcplindia.com"
 
 const val RC_STORAGE_PERMISSION = 1
 
